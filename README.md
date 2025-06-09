@@ -56,6 +56,7 @@ Wydział Elektroniki i Technik Informacyjnych
 - Schowek (WinForms – kopiowanie zawartości pliku do schowka)  
 - Rejestracja czasu pracy (Razor)  
 - Rezerwacja pokoi (WebAPI, MS SQL, RabbitMQ)
+- Mikroserwisy(Docker)
 
 ---
 
