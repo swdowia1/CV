@@ -18,7 +18,10 @@ Wydział Elektroniki i Technik Informacyjnych
 *Studia magisterskie*
 
 ---
-
+## Repozyrium kodów
+- aaa
+- bbb
+---
 ## Doświadczenie zawodowe
 
 ### **2025.04 – obecnie**  
