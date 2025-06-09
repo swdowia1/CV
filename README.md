@@ -18,9 +18,31 @@ Wydział Elektroniki i Technik Informacyjnych
 *Studia magisterskie*
 
 ---
-## Repozyrium kodów
-- aaa
-- bbb
+## Projekty GitHub
+
+- [**SQLMini**](https://github.com/swdowia1/SQLMini)  
+  Aplikacja do podglądu tabel z bazy MS SQL z możliwością eksportu do pliku CSV  
+  *Technologie:* C#
+
+- [**HelpKasia**](https://github.com/swdowia1/HelpKasia)  
+  Aplikacja do wstawiania tekstów ze schowka  
+  *Technologie:* C#
+
+- [**AngielskiNauka**](https://github.com/swdowia1/AngielskiNauka)  
+  Nauka słówek (unit test, repository pattern)  
+  *Technologie:* C#
+
+- [**repositoryGeneric**](https://github.com/swdowia1/repositoryGeneric)  
+  Repozytorium generyczne  
+  *Technologie:* C#
+
+- [**HotelSystem**](https://github.com/swdowia1/HotelSystem)  
+  Projekt wykorzystujący mikroserwisy  
+  *Technologie:* C#
+
+- [**translate**](https://github.com/swdowia1/translate)  
+  *Technologie:* C#
+
 ---
 ## Doświadczenie zawodowe
 
