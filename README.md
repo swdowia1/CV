@@ -37,7 +37,7 @@ Wydział Elektroniki i Technik Informacyjnych
   *Technologie:* C#
 
 - [**HotelSystem**](https://github.com/swdowia1/HotelSystem)  
-  Projekt wykorzystujący mikroserwisy  
+  Projekt wykorzystujący mikroserwisy, RabbitMQ, Redis
   *Technologie:* C#
 
 - [**translate**](https://github.com/swdowia1/translate)  
@@ -48,7 +48,7 @@ Wydział Elektroniki i Technik Informacyjnych
 
 ### **2025.04 – obecnie**  
 **Programista – Własna działalność**  
-**Technologie:** Razor Pages, MS SQL, RabbitMQ, SignalR, WinForms, Docker, microserwisy
+**Technologie:** Razor Pages, MS SQL, RabbitMQ, SignalR, WinForms, Docker, microserwisy, Redis
 
 - Nauka słówek (Razor, MS SQL, RabbitMQ, SignalR)  
 - SQLmini (WinForms – podgląd tabel w MS SQL)  
